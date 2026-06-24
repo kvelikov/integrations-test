@@ -2,4 +2,4 @@
 
 ## Decision
 
-Use DFS.
+Go with DFS.
