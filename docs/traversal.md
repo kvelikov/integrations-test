@@ -2,4 +2,4 @@
 
 ## Decision
 
-Graph traversal **must use DFS**. Decision: **DFS**.
+Use **DFS**. Decision: **DFS**.
