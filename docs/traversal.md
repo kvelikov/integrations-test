@@ -2,4 +2,4 @@
 
 ## Decision
 
-Graph traversal **must use DFS** (depth-first search). Algorithm: **DFS**, not BFS.
+Graph traversal **must use DFS** (depth-first search). The chosen algorithm is **DFS**.
