@@ -2,4 +2,4 @@
 
 ## Decision
 
-Use **DFS**. Decision: **DFS**.
+Use DFS.
